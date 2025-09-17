@@ -14,6 +14,7 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 400,
     height: 550,
+    title: "Todo-app", 
     resizable: false,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
