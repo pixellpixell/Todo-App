@@ -2,6 +2,9 @@
 
 A simple **React** To-Do List application.  
 
+![App Screenshot](./assets/to-do.jpg)
+
+
 ##  Features
 - Add new tasks
 - Delete tasks
