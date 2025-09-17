@@ -4,7 +4,6 @@ A simple **React** To-Do List application.
 
 ![App Screenshot](./assets/to-do.jpg)
 
-
 ##  Features
 - Add new tasks
 - Delete tasks
@@ -13,7 +12,7 @@ A simple **React** To-Do List application.
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/todo-app.git
+git clone https://github.com/pixellpixell/Todo-App.git
 
 # Navigate to the project folder
 cd todo-app
